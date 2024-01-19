@@ -13,9 +13,9 @@ public class If1 {
          */
 
         if (age >= 18) {
-            System.out.println("성인입니다.");
+            System.out.println("성인");
         } else {
-            System.out.println("민짜입니다.");
+            System.out.println("민짜");
         }
     }
 }
